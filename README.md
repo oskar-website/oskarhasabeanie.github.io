@@ -1,2 +1,0 @@
-# oskarhasabeanie.github.io
-website
